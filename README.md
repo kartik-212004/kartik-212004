@@ -2,10 +2,11 @@
 <h3 align="center">I'm Kartik, a passionate computer science student specializing in both front-end and back-end development. I have a strong command of the MERN stack, including React, Node.js, Express, and MongoDB. With a keen eye for detail and a dedication to learning, I've completed several projects that demonstrate my proficiency in modern web technologies like Tailwind CSS, Vite, and Mongoose.</h3>
 
 <div align="center">
-    <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Alt text" />
+    <img src="https://th.bing.com/th/id/R.679e398832041194f0acdb1888084ae5?rik=n5y6FKyLNxOorQ&riu=http%3a%2f%2fwww.techdigest.tv%2fsnoop-dogg-with-computer.jpg&ehk=FtEKWVk5tOJvnSg0MxF9fLxxdNMZrpJqPKIL4n8LNa8%3d&risl=&pid=ImgRaw&r=0" alt="Alt text" />
 </div>
 
 <p align="left"> <a href="https://twitter.com/kartik200421" target="blank"><img src="https://img.shields.io/twitter/follow/kartik200421?logo=twitter&style=for-the-badge" alt="kartik200421" /></a> </p>
+
 
 - 🔭 I’m currently working on **patreon clone**
 
