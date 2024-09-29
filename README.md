@@ -16,7 +16,7 @@
 </p>
 
 <p>
-I’m a passionate Full Stack Developer with a solid foundation in both front-end and back-end technologies. Currently pursuing my BTech , I enjoy building scalable, maintainable, and reliable applications. I have experience with the MERN stack, along with a growing expertise in Next.js and Prisma.
+I’m a passionate Full Stack Developer with a solid foundation in both front-end and back-end technologies. Currently pursuing my BTech, I enjoy building scalable, maintainable, and reliable applications. I have experience with the MERN stack, along with a growing expertise in Next.js and Prisma.
 
 I love tackling new challenges and continuously improving my skills through personal projects and collaboration. Feel free to explore my repositories, where you’ll find a variety of projects, from web applications to innovative solutions.
 
@@ -115,4 +115,5 @@ Let’s connect and collaborate on exciting projects!
   <a href="mailto:kartik200421@gmail.com">📧 Email</a> | 
   <a href="https://github.com/kartik-212004">💼 GitHub</a> | 
   <a href="https://www.linkedin.com/in/kartik-bhatt-35a374251/">💼 LinkedIn</a> 
+    <a href="https://www.instagram.com/karrtikbhatt/">📥 Instagram</a> 
 </p>
