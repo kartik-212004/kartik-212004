@@ -73,6 +73,10 @@ Let’s connect and collaborate on exciting projects!
 <img src="https://img.shields.io/badge/NoSQL-282C34?logo=NoSQL&logoColor=F7DF1E" alt="NoSQL logo" title="NoSQL" height="20" />  
 <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=336791" alt="PostgreSQL logo" title="PostgreSQL" height="20" />  
 <img src="https://img.shields.io/badge/ElephantSQL-282C34?logo=ElephantSQL&logoColor=F7DF1E" alt="ElephantSQL logo" title="ElephantSQL" height="20" />  
+<img src="https://img.shields.io/badge/HONO-282C34?logo=HONO&logoColor=00A1F1" alt="HONO logo" title="HONO" height="20" />  
+<img src="https://img.shields.io/badge/Cloudflare-282C34?logo=Cloudflare&logoColor=FFCC00" alt="Cloudflare logo" title="Cloudflare" height="20" />  
+<img src="https://img.shields.io/badge/TOS-282C34?logo=Terms&logoColor=007BFF" alt="Terms of Service logo" title="Terms of Service" height="20" />  
+
 
    </td>
    <td valign="center" align="center" width="400px">
