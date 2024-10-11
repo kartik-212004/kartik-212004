@@ -60,15 +60,7 @@ Let’s connect and collaborate on exciting projects!
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=TypeScript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="20" />  
 <img src="https://img.shields.io/badge/React-282C34?logo=React&logoColor=61DBFB" alt="React logo" title="React" height="20" />  
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=61DBFB" alt="Redux logo" title="Redux" height="20" />  
-<img src="https://img.shields.io/badge/Next.js-282C34?logo=Next.js&logoColor=41B883" alt="Next.js logo" title="Next.js" height="20" />  
-<img src="https://img.shields.io/badge/React_Routing-282C34?logo=react-router&logoColor=CA4245" alt="React Routing" title="React Routing" height="20" />  
-<img src="https://img.shields.io/badge/Component_Based_Design-282C34?logo=react&logoColor=61DAFB" alt="Component Based Design" title="Component Based Design" height="20" />  
-<img src="https://img.shields.io/badge/State_Management_Hooks-282C34?logo=react&logoColor=61DAFB" alt="State Management with Hooks" title="State Management with Hooks" height="20" />  
-<img src="https://img.shields.io/badge/Event_Handling-282C34?logo=javascript&logoColor=F7DF1E" alt="Event Handling" title="Event Handling" height="20" />  
-<img src="https://img.shields.io/badge/Conditional_Rendering-282C34?logo=react&logoColor=61DAFB" alt="Conditional Rendering" title="Conditional Rendering" height="20" />  
-<img src="https://img.shields.io/badge/Rendering_Lists-282C34?logo=react&logoColor=61DAFB" alt="Rendering Lists" title="Rendering Lists" height="20" />  
-<img src="https://img.shields.io/badge/Interactive_Apps-282C34?logo=react&logoColor=61DAFB" alt="Interactive Apps" title="Interactive Apps" height="20" />  
-<img src="https://img.shields.io/badge/Audio_Player_in_React-282C34?logo=react&logoColor=61DAFB" alt="Audio Player in React" title="Audio Player in React" height="20" />  
+<img src="https://img.shields.io/badge/Next.js-282C34?logo=Next.js&logoColor=41B883" alt="Next.js logo" title="Next.js" height="20" /> 
 <img src="https://img.shields.io/badge/Using_Vite-282C34?logo=vite&logoColor=646CFF" alt="Using Vite" title="Using Vite" height="20" />
 
 
