@@ -111,7 +111,7 @@ Let’s connect and collaborate on exciting projects!
   </tr>
  </table>
 </div>
-
+[![An image of @kartik212004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartik212004)](https://holopin.io/@kartik212004)
 <h3 align="center">
  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> 
  Contact Me
