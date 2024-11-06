@@ -23,10 +23,9 @@
   </h1>
 
   <!-- Coding image centered above description -->
- <div style="display: flex; justify-content: center; margin-top: 20px;">
-  <img alt="Coding" src="https://i.pinimg.com/originals/0d/ea/6d/0dea6d019714ad365b3858492823f417.gif" style="width: 100%; max-width: 100vw; height: auto; max-height: 300px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <img alt="Coding" src="https://i.pinimg.com/originals/0d/ea/6d/0dea6d019714ad365b3858492823f417.gif" style="width: 100%; height: auto; max-height: 300px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
 </div>
-
 
 
 
