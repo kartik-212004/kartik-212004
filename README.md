@@ -14,6 +14,7 @@
   <p>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;If+you+are+sparked+sth;from+my+repo;plz+give+me+star!!!&font=Fira%20Code&color=%23fff&center=true&width=280&height=50">
   </p>
+  
 
   <!-- Introduction with a subtle animation -->
   <h1 style="font-family: 'Arial', sans-serif; font-size: 2rem; color: #fff; margin-top: 30px;">
@@ -21,29 +22,24 @@
     Hello, I am Kartik,
      <p>a seasoned Full Stack Developer</P>
   </h1>
-
-  <!-- Coding image centered above description -->
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <img alt="Coding" src="https://i.pinimg.com/originals/0d/ea/6d/0dea6d019714ad365b3858492823f417.gif" style="width: 100%; height: auto; max-height: 300px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-</div>
-
-
-
+  
   <!-- Profile views counter -->
   <p align="center" style="margin-top: 20px; font-family: 'Arial', sans-serif; font-size: 1rem; color: #fff;">
     <img src="https://komarev.com/ghpvc/?username=kartik-212004&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-212004" />
   </p>
+  <!-- Coding image centered above description -->
+  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0d/ea/6d/0dea6d019714ad365b3858492823f417.gif">
 
-  <!-- Personal introduction -->
+
 <p style="font-family: 'Roboto', sans-serif; font-size: 1.1rem; color: #fff; line-height: 1.6; max-width: 800px; margin: 20px auto;">
   I’m a passionate Full Stack Developer with a solid foundation in both front-end and back-end technologies. Currently pursuing my BTech, I enjoy building scalable, maintainable, and reliable applications. I have experience with the MERN stack, along with a growing expertise in Next.js and Prisma.
+
+  I love tackling new challenges and continuously improving my skills through personal projects and collaboration.
+  
 </p>
-<div style="background-color: #808080; color: #808080; padding: 10px; color: #fff;">
-  I love tackling new challenges and continuously improving my skills through personal projects and collaboration. Feel free to explore my repositories, where you’ll find a variety of projects, from web applications to innovative solutions. Let’s connect and collaborate on exciting projects!
-</div>
 
 
-
+  <!-- Personal introduction -->
 
 
 <hr/>
@@ -153,7 +149,7 @@
  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
 </h3>
 
-<div style=" padding: 1rem; border-radius: 1rem; text-align: center;">
+<div style="padding: 1rem; border-radius: 1rem; text-align: center;">
   <div style="display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap; align-items: center;">
     <a href="mailto:kartik200421@gmail.com" style="text-decoration: none; padding: 0.6rem 1.2rem; background: linear-gradient(135deg, #ff6b6b, #ff8787); color: white; border-radius: 2rem; font-weight: 500; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(255, 107, 107, 0.2); display: flex; align-items: center; gap: 0.5rem;">
       <span style="font-size: 1.2rem;">📧</span> Email
@@ -168,4 +164,6 @@
       <span style="font-size: 1.2rem;">📥</span> Instagram
     </a>
   </div>
+</div>
+
 </div>
