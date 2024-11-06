@@ -24,7 +24,7 @@
 
   <!-- Coding image centered above description -->
   <div style="display: flex; justify-content: center; margin-top: 20px;">
-    <img alt="Coding" width="400" src="https://i.pinimg.com/564x/71/09/78/710978379db8abcc774c30a2301aa649.jpg" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+    <img alt="Coding" width="500" height="200" src="https://i.pinimg.com/originals/0d/ea/6d/0dea6d019714ad365b3858492823f417.gif" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
   </div>
 
   <!-- Profile views counter -->
