@@ -37,7 +37,7 @@
     I’m a passionate Full Stack Developer with a solid foundation in both front-end and back-end technologies. Currently pursuing my BTech, I enjoy building scalable, maintainable, and reliable applications. I have experience with the MERN stack, along with a growing expertise in Next.js and Prisma.
 
   </p>
-  <div style="background-color: #151b23; padding: 10px;">
+  <div style="background-color: #808080; padding: 10px;">
   I love tackling new challenges and continuously improving my skills through personal projects and collaboration. Feel free to explore my repositories, where you’ll find a variety of projects, from web applications to innovative solutions. Let’s connect and collaborate on exciting projects!
 </div>
 
