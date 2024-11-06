@@ -18,7 +18,8 @@
   <!-- Introduction with a subtle animation -->
   <h1 style="font-family: 'Arial', sans-serif; font-size: 2rem; color: #fff; margin-top: 30px;">
     <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30" alt="Hello"> 
-    Hello, I am Kartik, a seasoned Full Stack Developer
+    Hello, I am Kartik,
+     <p>a seasoned Full Stack Developer</P>
   </h1>
 
   <!-- Coding image centered above description -->
@@ -35,12 +36,13 @@
   <p style="font-family: 'Roboto', sans-serif; font-size: 1.1rem; color: #fff; line-height: 1.6; max-width: 800px; margin: 20px auto;">
     I’m a passionate Full Stack Developer with a solid foundation in both front-end and back-end technologies. Currently pursuing my BTech, I enjoy building scalable, maintainable, and reliable applications. I have experience with the MERN stack, along with a growing expertise in Next.js and Prisma.
 
-    I love tackling new challenges and continuously improving my skills through personal projects and collaboration. Feel free to explore my repositories, where you’ll find a variety of projects, from web applications to innovative solutions.
-
-    Let’s connect and collaborate on exciting projects!
   </p>
+  <div style="background-color: #151b23; padding: 10px;">
+  I love tackling new challenges and continuously improving my skills through personal projects and collaboration. Feel free to explore my repositories, where you’ll find a variety of projects, from web applications to innovative solutions. Let’s connect and collaborate on exciting projects!
+</div>
 
-  <!-- Styled footer with call to action -->
+
+
 </div>
 
 
