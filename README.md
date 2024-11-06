@@ -23,9 +23,10 @@
   </h1>
 
   <!-- Coding image centered above description -->
-  <div style="display: flex; justify-content: center; margin-top: 20px;">
-    <img alt="Coding" width="500" height="200" src="https://i.pinimg.com/originals/0d/ea/6d/0dea6d019714ad365b3858492823f417.gif" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-  </div>
+ <div style="display: flex; justify-content: center; margin-top: 20px;">
+  <img alt="Coding" src="https://i.pinimg.com/originals/0d/ea/6d/0dea6d019714ad365b3858492823f417.gif" style="width: 100%; height: auto; border-radius: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+</div>
+
 
   <!-- Profile views counter -->
   <p align="center" style="margin-top: 20px; font-family: 'Arial', sans-serif; font-size: 1rem; color: #fff;">
