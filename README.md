@@ -1,4 +1,4 @@
-<div align="center" style="padding: 30px; border-radius: 15px; max-width: 100%; margin: 20px auto; text-align: center; ">
+<div align="center" style="padding: 30px; border-radius: 15px; max-width: 100%; margin: 20px auto; text-align: center;">
   <!-- GIFs at the top -->
   <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="border-radius: 8px; margin-right: 15px;">
@@ -21,8 +21,10 @@
     Hello, I am Kartik, a seasoned Full Stack Developer
   </h1>
 
-  <!-- Coding image on the side -->
-  <img align="right" alt="Coding" width="400" src="https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9zci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsb2ZmaWNlMTVfYV9taW5pbWFsX2FuZF9sZXNzX2RldGFpbF9pbGx1c3RyYXRpb25fb2ZfYV9sb19kOTgwNTI4Mi03NGVkLTQyZWEtYTNjMS0wOWU4MjgzN2EzYzZfMS5qcGc.jpg" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); margin-top: 20px;">
+  <!-- Profile image at the center -->
+  <div style="text-align: center; margin-top: 30px;">
+    <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/564x/71/09/78/710978379db8abcc774c30a2301aa649.jpg" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+  </div>
 
   <!-- Profile views counter -->
   <p align="center" style="margin-top: 20px; font-family: 'Arial', sans-serif; font-size: 1rem; color: #fff;">
@@ -30,19 +32,16 @@
   </p>
 
   <!-- Personal introduction -->
-  <p style="font-family: 'Roboto', sans-serif; font-size: 1.1rem; color: #fff; line-height: 1.6; max-width: 800px; margin: 20px auto;">
+  <p style="font-family: 'Roboto', sans-serif; font-size: 1.1rem; color: #fff; line-height: 1.6; max-width: 800px; margin: 20px auto; padding: 0 15px;">
     I’m a passionate Full Stack Developer with a solid foundation in both front-end and back-end technologies. Currently pursuing my BTech, I enjoy building scalable, maintainable, and reliable applications. I have experience with the MERN stack, along with a growing expertise in Next.js and Prisma.
 
     I love tackling new challenges and continuously improving my skills through personal projects and collaboration. Feel free to explore my repositories, where you’ll find a variety of projects, from web applications to innovative solutions.
 
     Let’s connect and collaborate on exciting projects!  
-    <br /><br />
-    Thank you for your consideration.
   </p>
 
-  <!-- Styled footer with call to action -->
-  
 </div>
+
 
 
 <hr/>
