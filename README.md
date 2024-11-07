@@ -1,9 +1,6 @@
 <div align="center" style="padding: 30px; border-radius: 15px; max-width: 100%; margin: 20px auto; text-align: center; ">
   <!-- GIFs at the top -->
-  <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-    <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="border-radius: 8px; margin-right: 15px;">
-    <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="border-radius: 8px; margin-left: 15px;">
-  </div>
+
   
   <!-- Welcome message -->
   <h1 style="font-family: 'Roboto', sans-serif; font-size: 2.5rem; color: #fff; letter-spacing: 1.5px;">
