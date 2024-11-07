@@ -146,6 +146,7 @@
 </tr>
  </table>
 </div>
+<img src="https://holopin.me/kartik212004"/>
 <h3 align="center">
  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> 
  Contact Me
@@ -168,3 +169,4 @@
     </a>
   </div>
 </div>
+
