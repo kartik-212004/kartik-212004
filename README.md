@@ -15,12 +15,8 @@
   <!-- Introduction with a subtle animation -->
   <h1 style="font-family: 'Arial', sans-serif; font-size: 2rem; color: #fff; margin-top: 30px;">
     <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30" alt="Hello"> 
-    Hello, I am Kartik,
-     <p>a seasoned Full Stack Developer</P>
+    Hi! My name is Kartik, and I’m a sophomore Computer Science student from India.
   </h1>
-
-
-
 
 
   <!-- Profile views counter -->
@@ -30,7 +26,6 @@
 
   <!-- Personal introduction -->
 <p style="font-family: 'Roboto', sans-serif; font-size: 1.1rem; color: #fff; line-height: 1.6; max-width: 800px; margin: 20px auto;">
-  Hi 👋! My name is Kartik, and I’m a second-year Computer Science student from India.
 I am keen on exploring diverse areas of computer science, with a strong focus on Web Development. I have a solid foundation in the MERN stack and excel at building full-stack projects, including decentralized applications and AI-driven solutions.
 
 </p>
