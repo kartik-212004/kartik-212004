@@ -47,14 +47,16 @@ Hi there! I'm Kartik, a sophomore Computer Science student from India. I am pass
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B8?logo=netlify&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=FFFFFF)
 
+## 🏆 Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kartik-212004&theme=onestar&no-frame=true&column=6&row=1)
+
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartik-212004&theme=react)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartik-212004&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-212004&theme=default&bg_color=ffffff&title_color=008080&text_color=000000&icon_color=1a1a1a)
 
-## 🏆 Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kartik-212004&theme=onestar&no-frame=true&column=6&row=1)
+
 
 
