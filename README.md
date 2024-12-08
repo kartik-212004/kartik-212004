@@ -19,10 +19,7 @@
      <p>a seasoned Full Stack Developer</P>
   </h1>
 
-  <!-- Coding image centered above description -->
- <div style="display: flex; justify-content: center; margin-top: 20px;">
-  <img alt="Coding" src="https://i.pinimg.com/originals/0d/ea/6d/0dea6d019714ad365b3858492823f417.gif" style="width: 100%; height: auto; max-height: 300px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-</div>
+
 
 
 
@@ -33,7 +30,8 @@
 
   <!-- Personal introduction -->
 <p style="font-family: 'Roboto', sans-serif; font-size: 1.1rem; color: #fff; line-height: 1.6; max-width: 800px; margin: 20px auto;">
-  I’m a passionate Full Stack Developer with a solid foundation in both front-end and back-end technologies. Currently pursuing my BTech, I enjoy building scalable, maintainable, and reliable applications. I have experience with the MERN stack, along with a growing expertise in Next.js and Prisma.
+  Hi 👋! My name is Kartik, and I’m a second-year Computer Science student from India.
+I am keen on exploring diverse areas of computer science, with a strong focus on Web Development. I have a solid foundation in the MERN stack and excel at building full-stack projects, including decentralized applications and AI-driven solutions.
 
 </p>
 
