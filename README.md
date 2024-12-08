@@ -56,7 +56,7 @@ Hi there! I'm Kartik, a sophomore Computer Science student from India. I am pass
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartik-212004&theme=react)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartik-212004&show_icons=true&theme=react)
 
-
+[![An image of @kartik212004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartik212004)](https://holopin.io/@kartik212004)
 
 
 
