@@ -53,8 +53,12 @@ I am passionate about exploring diverse areas of computer science, with a strong
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartik-212004&theme=react)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartik-212004&show_icons=true&theme=react)
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-212004&theme=react" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kartik-212004&show_icons=true&theme=react" style="max-width: 100%; height: auto;" />
+</div>
+
+## 🚀 Holopin Badges
 
 [![An image of @kartik212004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartik212004)](https://holopin.io/@kartik212004)
 
