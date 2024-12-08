@@ -1,8 +1,8 @@
-# 🌟 Kartik Bhatt - Computer Science Student
+# 🌟 I'm Kartik, a sophomore Computer Science student from India
 
 ## 👋 About Me
 
-Hi there! I'm Kartik, a sophomore Computer Science student from India. I am passionate about exploring diverse areas of computer science, with a strong focus on Web Development. I have a solid foundation in the MERN stack and excel at building full-stack projects, including decentralized applications and AI-driven solutions.
+I am passionate about exploring diverse areas of computer science, with a strong focus on Web Development. I have a solid foundation in the MERN stack and excel at building full-stack projects, including decentralized applications and AI-driven solutions.
 
 ## 🌐 Connect with Me
 
