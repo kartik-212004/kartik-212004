@@ -52,10 +52,10 @@ I am passionate about exploring diverse areas of computer science, with a strong
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kartik-212004&theme=onestar&no-frame=true&column=6&row=1)
 
 ## 📊 GitHub Stats
-
-<div style="display: flex; flex-direction: column;justify-content: center; align-items: center; width: 50%; gap: 1rem;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-212004&theme=react" style="width: 50%; max-width: 400px; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kartik-212004&show_icons=true&theme=react" style="width: 50%; max-width: 400px; height: auto;" />
+<div align="center">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-212004&theme=react" />
+  <br/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=kartik-212004&show_icons=true&theme=react" />
 </div>
 
 ## 🚀 Holopin Badges
