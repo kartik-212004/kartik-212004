@@ -1,6 +1,6 @@
 # 🌟 I'm Kartik, a sophomore Computer Science student from India
 
-## 👋 About Me
+## 👋 About Me  - [Kartik's Portfolio](https://kartik-portfolio-vert.vercel.app/)
 
 I am passionate about exploring diverse areas of computer science, with a strong focus on Web Development. I have a solid foundation in the MERN stack and excel at building full-stack projects, including decentralized applications and AI-driven solutions.
 
