@@ -16,12 +16,7 @@ I am passionate about exploring diverse areas of computer science, with a strong
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXUzaDJhc3R0aDI1YnJqeGl6eDluNW53bTYwZTBvOHlhMWNlaXF5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JVglf7QjxaZZM2tjfB/giphy.gif" width="80" alt="Lo-fi music animation" />
   
-  <div style="background: linear-gradient(to right, #8e2de2, #4a00e0); padding: 10px; border-radius: 12px; margin: 10px 0; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
-    <p style="margin: 0; font-size: 12px; color: #ccc; text-align: left;">My Coding Soundtrack</p>
-    <div style="display: flex; align-items: center; margin-top: 5px;">
-     [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1ksf1wi679el7ogl45p0xdlif&cover_image=false&theme=default&show_offline=false&background_color=261212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1ksf1wi679el7ogl45p0xdlif&redirect=true)
-    </div>
-  </div>
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1ksf1wi679el7ogl45p0xdlif&cover_image=false&theme=default&show_offline=false&background_color=1d1b1b&interchange=true&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1ksf1wi679el7ogl45p0xdlif&redirect=true)
 
   <p style="font-family: 'Courier New', monospace; font-size: 12px; color: #888; margin-top: 5px;">~ c o d i n g · w i t h · t h e · b e a t ~</p>
 </div>
