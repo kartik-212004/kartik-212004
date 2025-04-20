@@ -50,6 +50,8 @@ I am passionate about exploring diverse areas of computer science, with a strong
 ![SQL](https://img.shields.io/badge/SQL-00758F?logo=database&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=FFFFFF)
+![Hono](https://img.shields.io/badge/Hono-ff6b81?logo=hono&logoColor=white)
+
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-FFCC00?logo=cloudflare&logoColor=000000)
 
 ### DevOps & Tools
@@ -57,8 +59,10 @@ I am passionate about exploring diverse areas of computer science, with a strong
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=FFFFFF)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=FFFFFF)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B8?logo=netlify&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=FFFFFF)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
 
 ## 🏆 Achievements
 
