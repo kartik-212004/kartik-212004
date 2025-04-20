@@ -81,6 +81,9 @@ I am passionate about exploring diverse areas of computer science, with a strong
 [![An image of @kartik212004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartik212004)](https://holopin.io/@kartik212004)
 
 <div align="center">
+  <a href="https://get-me-a-beer.vercel.app/" target="_blank">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
     <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
+  </a>
 </div>
+
