@@ -19,12 +19,7 @@ I am passionate about exploring diverse areas of computer science, with a strong
   <div style="background: linear-gradient(to right, #8e2de2, #4a00e0); padding: 10px; border-radius: 12px; margin: 10px 0; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
     <p style="margin: 0; font-size: 12px; color: #ccc; text-align: left;">My Coding Soundtrack</p>
     <div style="display: flex; align-items: center; margin-top: 5px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" width="24" height="24" style="margin-right: 8px;" />
-      <p style="margin: 0; font-size: 14px; color: white;">
-        <a href="https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN" style="color: white; text-decoration: none;" target="_blank">
-          Promiscuous - Nelly Furtado ft. Timbaland
-        </a>
-      </p>
+     [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1ksf1wi679el7ogl45p0xdlif&cover_image=false&theme=default&show_offline=false&background_color=261212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1ksf1wi679el7ogl45p0xdlif&redirect=true)
     </div>
   </div>
 
