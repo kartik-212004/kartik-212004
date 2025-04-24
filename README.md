@@ -1,17 +1,17 @@
-# 🌟 I'm Kartik, a sophomore Computer Science student from India
+#  I'm Kartik, a sophomore Computer Science student from India
 
-## 👋 About Me - [Kartik's Portfolio](https://kartik-portfolio-vert.vercel.app/)
+## About Me - [Kartik's Portfolio](https://kartik-portfolio-vert.vercel.app/)
 
 I am passionate about exploring diverse areas of computer science, with a strong focus on Web Development. I have a solid foundation in the MERN stack and excel at building full-stack projects, including decentralized applications and AI-driven solutions.
 
-## 🌐 Connect with Me
+## Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartik200421@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-bhatt-35a374251/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/karrtikbhatt)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karrtikbhatt/)
 
-## 🎧 Currently Bopping To...
+## Currently Bopping To...
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXUzaDJhc3R0aDI1YnJqeGl6eDluNW53bTYwZTBvOHlhMWNlaXF5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JVglf7QjxaZZM2tjfB/giphy.gif" width="80" alt="Lo-fi music animation" />
@@ -21,11 +21,11 @@ I am passionate about exploring diverse areas of computer science, with a strong
   <p style="font-family: 'Courier New', monospace; font-size: 12px; color: #888; margin-top: 5px;">~ c o d i n g · w i t h · t h e · b e a t ~</p>
 </div>
 
-## 👀 Profile Views
+## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kartik-212004&label=Profile%20views&color=0e75b6&style=flat)
 
-## 🚀 Technologies & Tools
+## Technologies & Tools
 
 ### Frontend
 
@@ -64,7 +64,7 @@ I am passionate about exploring diverse areas of computer science, with a strong
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=FFFFFF)
 ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
 
-## 🏆 Achievements
+## Achievements
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kartik-212004&theme=onestar&no-frame=true&column=6&row=1)
 
@@ -76,7 +76,7 @@ I am passionate about exploring diverse areas of computer science, with a strong
   <img width="500" src="https://github-readme-stats.vercel.app/api?username=kartik-212004&show_icons=true&theme=react" />
 </div> -->
 
-## 🚀 Holopin Badges
+## Holopin Badges
 
 [![An image of @kartik212004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartik212004)](https://holopin.io/@kartik212004)
 
