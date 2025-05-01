@@ -64,11 +64,12 @@ I am passionate about exploring diverse areas of computer science, with a strong
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=FFFFFF)
 ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
 
-## Achievements
+<!-- ## Achievements
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kartik-212004&theme=onestar&no-frame=true&column=6&row=1)
+-->
 
-<!-- ## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats 
 
 <div align="center">
   <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-212004&theme=react" />
