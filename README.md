@@ -2,8 +2,7 @@
 
 ## About Me - [Kartik's Portfolio](https://kartik-portfolio-vert.vercel.app/)
 
-I am passionate about exploring diverse areas of computer science, with a strong focus on Web Development. I have a solid foundation in the MERN stack and excel at building full-stack projects, including decentralized applications and AI-driven solutions.
-
+I'm all about exploring computer science, but web development is my happy space. I'm working with the MERN stack in my arsenal, whipping up full-stack projects, such as things like decentralized applications and AI-powered magic — essentially, I'm here to make the web cooler, line by line
 ## Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartik200421@gmail.com)
