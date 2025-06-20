@@ -1,1 +1,1 @@
-type Me = "developer" | "student"
+i am a developer
