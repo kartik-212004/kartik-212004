@@ -9,9 +9,16 @@
 ### Stats of my workstation
 
 <p align="center">
-  <img alt="Kartik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kartik-212004&show_icons=true&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff" height="180px" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-212004&layout=compact&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff" height="180px" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kartik-212004&show_icons=true&hide_border=true&theme=transparent"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-212004&layout=compact&hide_border=true&theme=transparent"
+    width="48%"
+  />
 </p>
+
 
 ## Visitor count
 ![Visitor Count](https://count.getloli.com/get/@kartik-212004?theme=rule34)
